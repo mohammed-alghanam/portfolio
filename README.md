@@ -14,7 +14,7 @@ Then open http://localhost:8000.
 
 ## Deploy to GitHub Pages
 
-1. Create a **new repository** named `portfolio` on your GitHub account `moh-Algh`. Keep your existing `Al-Warraq` repository separate.
+1. Create a **new repository** named `portfolio` on your GitHub account `mohammed-alghanam`. Keep your existing `Al-Warraq` repository separate.
 2. Upload the **contents of this folder** to the *root* of the new repository: `index.html`, `styles.css`, `script.js`, `README.md`, and the `assets/` folder.
 3. Commit changes to the `main` branch.
 4. Go to **Settings → Pages** in the `portfolio` repository.
