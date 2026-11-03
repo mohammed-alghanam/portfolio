@@ -19,7 +19,7 @@ Then open http://localhost:8000.
 3. Commit changes to the `main` branch.
 4. Go to **Settings → Pages** in the `portfolio` repository.
 5. Under **Build and deployment**, choose **Deploy from a branch**; set `main` and `/(root)`; click **Save**.
-6. Once deployed, the site URL will normally be **https://moh-algh.github.io/portfolio/**.
+6. Once deployed, the site URL will normally be **https://mohammed-alghanam.github.io/portfolio/**.
 
 GitHub Pages is static hosting; this portfolio works without a backend. It links to the Al-Warraq source repository; it does **not** host the Flask app.
 
